@@ -3,12 +3,10 @@
 - 🌱 I’m currently learning coding...
 - 💞️ I’m looking to collaborate with you......
 - 📫 How to reach me ...
-- <html>
-  <body>
--      <a href="https://t.me/darkz_hacker_devil">Telegram</a>
--      slrvtechboy@gmail.com
-  </body>
-  </html>
+-  
+-  Telegram : @darkz_hacker_devil
+-  Gmail :    slrvtechboy@gmail.com
+ 
   
 <!---
 raviyasa/raviyasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
