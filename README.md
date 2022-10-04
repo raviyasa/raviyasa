@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning coding...
 - 💞️ I’m looking to collaborate with you......
 - 📫 How to reach me ...
--  
--  Telegram : @darkz_hacker_devil
--  Gmail :    slrvtechboy@gmail.com
+- Telegram : [@Mr_Saathan_Official](https://t.me/Mr_Saathan_Official)
+- Gmail :    slrvtechboy@gmail.com
  
   
 <!---
